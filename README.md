@@ -74,8 +74,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/zoom-clone.git
-cd zoom-clone
+git clone git@github.com:ehfazrezwan/stream-meet.git
+cd stream-meet
 ```
 
 **Installation**
